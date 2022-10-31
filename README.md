@@ -5,5 +5,5 @@
 -  I have Good Experience in Firebase and Flask Restful API's
 
 
-      ![Haresh's github stats](https://github-readme-stats.vercel.app/api?username=hareshbaskaran)
+      ![Haresh's github stats](https://github-readme-stats.vercel.app/api?username=hareshbaskaran&show_icons=true&theme=tokyonight)
 
