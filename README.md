@@ -5,6 +5,5 @@
 -  I have Good Experience in Firebase and Flask Restful API's
 
 
-![Haresh's github stats](https://github-readme-stats.vercel.app/api?username=hareshbaskaran)
+      ![Haresh's github stats](https://github-readme-stats.vercel.app/api?username=hareshbaskaran)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=hareshbaskaran&repo=OV-AI)](https://github.com/thepracticaldev/dev.to)
