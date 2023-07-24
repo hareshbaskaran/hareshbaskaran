@@ -35,3 +35,5 @@ Driven by curiosity and a thirst for innovation, I immerse myself in the world o
 🔍 Curiosity-Driven Approach 🧠
 
 Curiosity fuels my passion for learning. I approach every problem with an inquisitive mindset, seeking innovative solutions and diving deep into research to uncover better ways of doing things.
+
+###Connect with me on Linkedin : https://www.linkedin.com/in/hareshbaskaran/
